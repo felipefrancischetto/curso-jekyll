@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Jykill Style
 
-You can use the [editor on GitHub](https://github.com/felipefrancischetto/curso-jekyll/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm familiar with this tool, I like the ease of use and I have plans to use it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below is a simple example of the 'Markdown' tagging language, very interesting and easy to use:
 
 ```markdown
 Syntax highlighted code block
